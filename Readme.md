@@ -11,6 +11,19 @@ My developer gave me a male name and I love it
 ## Version
 I'm currently on ccv1 (ccv1 are the naming of the application versions meaning chefcula version 1). I'll continue building him until he is the best.
 
+## Product Description
+
+This application is intented - based on its first phase, to provide a:
+
+        1. Home Page
+        2. Cusines Page
+        3. Quotes Page
+        4. Galerry Page
+        5. Contact Ribbon
+        6. A copyright message at the bottom
+
+The first phase will be extended to incorporating the recipes for different types in various cultures. This application should as well accomodate videos, live recordings, Likes, Share and comment button
+
 ## Technologies Used
 
 He is currently being build using
