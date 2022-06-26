@@ -1,9 +1,18 @@
-// silencing the default features - reloading
+// Events
+// 1. silencing the default features - reloading
 
 document.addEventListener('DOMContentLoaded', (stopDefault) => {
     stopDefault.preventDefault()
     console.log(stopDefault.target)
 })
+
+// 2. Adding an alert to the home pafe button
+
+// document.getElementsByClassName("btn").addEventListener("click", myFunction);
+
+// function myFunction() {
+//     alert("Hello Welcome!");
+// }
 
 // All renders
 
