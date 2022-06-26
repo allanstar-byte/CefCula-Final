@@ -235,13 +235,6 @@
         -ms-transform: translateY(100%);
         -o-transform: translateY(100%);
     }
-    /* Designing the footer */
-    
-    #footer {
-        text-align: center;
-        font-family: 'Nunito', sans-serif;
-        color: #666;
-    }
     /* Designging the quotes forms */
     
     #quotes {
@@ -312,4 +305,11 @@
     
     .logoc p {
         align-content: flex-start;
+    }
+    /* Designing the footer */
+    
+    #footer {
+        text-align: center;
+        font-family: 'Nunito', sans-serif;
+        color: #666;
     }
