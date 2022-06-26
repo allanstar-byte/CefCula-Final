@@ -31,20 +31,27 @@ Clone the repo {git clone https://github.com/allanstar-byte/ChefCula.git}
 
 Ensure to run your server before going live  {json-server --watch db.json }
 
+## Known Bugs
+
+Once the web is deployed on gh-pages the Server at some points it keeps on failing. Though on the localhost everything is working pretty well. 
+
+But I'm still working on it to check on the check the issue
+
+## Support and contact details
+
+allanmutisya254ke@gmail.com
+
++254720168846
+
+linkedIn: https://www.linkedin.com/in/allanmutisya
+
+Twitter: https://twitter.com/Allanmutisya4
 
 
+### License
+MIT License
 
-
-
-
-
-
-
-
-
-
-
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 copyright &copy; allan Ngoma
