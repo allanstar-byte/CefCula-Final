@@ -1,0 +1,49 @@
+{
+    "quotes": [{
+            "id": "1",
+            "description": "Never eat more than you can life.",
+            "source": "Miss Piggy"
+        },
+        {
+            "id": "2",
+            "description": "A recipe has no soul. You, as the cook, must bring soul to the recipe.",
+            "source": "Thomas Keller"
+        },
+        {
+            "id": "3",
+            "description": "Life is uncertain. Eat dessert first.",
+            "source": "Ernestine Ulmer"
+        },
+        {
+            "id": "4",
+            "description": "Food for us comes from our relatives, whether they have wings or fins or roots. That is how we consider food. Food has a culture. It has a history. It has a story. It has relationships.",
+            "source": "Winona LaDuke"
+        },
+        {
+            "id": "5",
+            "description": "Food is symbolic of love when words are inadequate.",
+            "source": "Alan D. Wolfelt"
+        }
+    ],
+    "gallery": [{
+            "id": "4",
+            "description": "Ethiopian Injera",
+            "thumbnail": "https://github.com/allanstar-byte/ChefCula/blob/master/resources/Ethiopian.png?raw=true"
+        },
+        {
+            "id": "5",
+            "description": "Indian rice",
+            "thumbnail": "https://github.com/allanstar-byte/ChefCula/blob/master/resources/indian.jpg?raw=true"
+        },
+        {
+            "id": "6",
+            "description": "Chineese rolls",
+            "thumbnail": "https://github.com/allanstar-byte/ChefCula/blob/master/resources/chinese.jpg?raw=true"
+        },
+        {
+            "id": "7",
+            "description": "A South Korean Fish Dish",
+            "thumbnail": "https://github.com/allanstar-byte/ChefCula/blob/master/resources/italian.png?raw=true"
+        }
+    ]
+}
