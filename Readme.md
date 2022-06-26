@@ -50,6 +50,10 @@ Once the web is deployed on gh-pages the Server at some points it keeps on faili
 
 But I'm still working on it to check on the check the issue
 
+## Link to the web Page
+
+allanstar-byte.github.io/cefcula-final/
+
 ## Support and contact details
 
 allanmutisya254ke@gmail.com
