@@ -46,9 +46,7 @@ Ensure to run your server before going live  {json-server --watch db.json }
 
 ## Known Bugs
 
-Once the web is deployed on gh-pages the Server at some points it keeps on failing. Though on the localhost everything is working pretty well. 
 
-But I'm still working on it to check on the check the issue
 
 ## Link to the web Page
 
