@@ -277,6 +277,18 @@
         display: flex;
         flex-wrap: wrap;
     }
+    
+    .list .galShow img {
+        width: 500px;
+        height: 300px;
+    }
+    
+    .list .galShow p {
+        color: #666;
+        text-align: center;
+        font-family: 'Nunito', sans-serif;
+        font-weight: bold;
+    }
     /* styling the contact section */
     
     #h1c {

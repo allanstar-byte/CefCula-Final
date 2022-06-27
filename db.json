@@ -27,23 +27,23 @@
     ],
     "gallery": [{
             "id": "4",
-            "description": "Ethiopian Injera",
-            "thumbnail": "https://github.com/allanstar-byte/ChefCula-Final/blob/master/resources/Injera.png?raw=true"
-        },
-        {
-            "id": "5",
             "description": "Indian rice",
             "thumbnail": "https://github.com/allanstar-byte/ChefCula-Final/blob/master/resources/indian.jpg?raw=true"
         },
         {
-            "id": "6",
+            "id": "5",
             "description": "Chineese rolls",
             "thumbnail": "https://github.com/allanstar-byte/ChefCula-Final/blob/master/resources/chinese.jpg?raw=true"
         },
         {
-            "id": "7",
+            "id": "6",
             "description": "A South Korean Fish Dish",
             "thumbnail": "https://github.com/allanstar-byte/ChefCula-Final/blob/master/resources/italian.png?raw=true"
+        },
+        {
+            "id": "7",
+            "description": "Kenya Ugali and stew",
+            "thumbnail": "https://github.com/allanstar-byte/ChefCula-Final/blob/master/resources/kenyan.png?raw=true"
         }
     ]
 }
