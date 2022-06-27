@@ -47,13 +47,13 @@ function renderGal(get2) {
 
 //  Fetching all dishes
 function getAllQuotes() {
-    fetch('http://localhost:3000/quotes')
+    fetch('https://chefcula.herokuapp.com/quotes')
         .then(res => res.json())
         .then(dishData => dishData.forEach(get1 => renderAll(get1)))
 }
 
 function getAllGal() {
-    fetch('http://localhost:3000/gallery')
+    fetch('https://chefcula.herokuapp.com/gallery')
         .then(res => res.json())
         .then(dishData => dishData.forEach(get2 => renderGal(get2)))
 }
