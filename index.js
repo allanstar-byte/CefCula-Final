@@ -8,11 +8,11 @@ document.addEventListener('DOMContentLoaded', (stopDefault) => {
 
 // 2. Adding an alert to the home pafe button
 
-document.getElementsByClassName("btn").addEventListener("click", myFunction);
+// document.getElementsByClassName("btn").addEventListener("click", myFunction);
 
-function myFunction() {
-    alert("Hello Welcome!");
-}
+// function myFunction() {
+//     alert("Hello Welcome!");
+// }
 
 // All renders
 
