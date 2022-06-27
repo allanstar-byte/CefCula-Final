@@ -55,7 +55,7 @@ function getAllQuotes() {
 function getAllGal() {
     fetch('https://chefcula.herokuapp.com/gallery')
         .then(res => res.json())
-        .then(dishData => dishData.forEach(get2 => renderGal(get2)))
+        .then(galData => galData.forEach(get2 => renderGal(get2)))
 }
 
 
