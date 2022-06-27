@@ -52,7 +52,7 @@ But I'm still working on it to check on the check the issue
 
 ## Link to the web Page
 
-allanstar-byte.github.io/cefcula-final/
+allanstar-byte.github.io/chefcula-final/
 
 ## Support and contact details
 
